@@ -1,0 +1,21 @@
+langchain==0.0.316
+openai==0.28.1
+pypdf
+PyPDF2
+python-dotenv
+streamlit
+faiss-cpu
+streamlit-extras
+altair
+tiktoken
+
+# langchain==0.0.316
+# openai==0.28.1
+# pypdf
+# PyPDF2==3.0.1
+# python-dotenv==1.0.0
+# streamlit==1.18.1
+# faiss-cpu==1.7.4
+# streamlit-extras
+# altair==4.1.0
+# tiktoken
